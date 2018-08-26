@@ -1,6 +1,11 @@
 # The Book
 
 *Title:* Work Rules!
+
 *Subtitle:* Insights from Google that will transform how you live and lead
+
 *Author:* Laszlo Bock
 
+## Chapter 1: Becoming a Founder
+
+Larry and Sergey both went to Montessori schools. Marissa Mayer said this is key to understanding Google.
