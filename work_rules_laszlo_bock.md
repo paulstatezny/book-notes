@@ -12,4 +12,4 @@
 - Mervin J. Kelly, president of Bell Labs, is like a spiritual successor to Larry and Sergey; gave tons of freedom and independence to employees and ended up with amazing inventions like the transistor. Engineered interactive office floor plans that encouraged collaboration.
 - Kelly thought like a "founder" years before becoming president.
 
-# Chapter 2: Culture Eats Strategy For Breakfast
+## Chapter 2: Culture Eats Strategy For Breakfast
