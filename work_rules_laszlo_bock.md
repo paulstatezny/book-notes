@@ -28,3 +28,5 @@
 - Why don't more companies do this?
   - It takes a lot of work.
   - But the alternative is an interview process that doesn't effectively identify the best candidates.
+  
+  > Our operating assumption is that in anything we do, we can do better.
