@@ -14,7 +14,7 @@ Most of us fall squarely into one bucket.
     - Pro: Very reliable to self, others
     - Con: Often conforms to pointless rules, wasting own time and others' or doing meaningless actions
 2. **Questioner**: Resists outer expectations, meets inner expectations
-    - Pro: Doesn't care about the rules, just what makes sense to them subjectively.
+    - Doesn't care about the rules, just what makes sense to them subjectively.
 3. **Obliger**: Meets outer expectations, resists inner expectations
     - Really needs to rely on external motivators to solidify a habit. (E.g. Want to read more? Join a book club that has a heavy expectation that everyone will read the material.)
 4. **Rebel**: Resists inner *and* outer expectations
