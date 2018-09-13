@@ -1,8 +1,8 @@
 # Book Notes: Better Than Before
 
-*Subtitle:* What I Learned About Making and Breaking Habits -- To Sleep More, Quit Sugar, Procrastinate Less, and Generally Build a Happier Life
+**Subtitle:** What I Learned About Making and Breaking Habits -- To Sleep More, Quit Sugar, Procrastinate Less, and Generally Build a Happier Life
 
-*Author:* Gretchen Rubin
+**Author:** Gretchen Rubin
 
 ## The Four Tendencies
 
