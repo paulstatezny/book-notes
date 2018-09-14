@@ -32,7 +32,10 @@ She basically says you need to engineer habits based on where you fit on a numbe
 5. Finisher vs Opener
 6. Familiarity Lover vs Novelty Lover
 7. Promotion-focused vs Prevention-focused
+    - Are you looking primarily to add value to your life? Or protect against harm? Probably both in varying degrees depending on the context.
 8. Small step taker vs Big step taker
+    - Taking small steps to build a habit is more sustainable. When change is quick to come, it's quick to go too.
+    - On the other hand, if there's a lot of needed/wanted change, taking too much of an "incremental" approach to change can leave you stuck in old patterns too long.
 
 #### Editorial Note
 
@@ -44,4 +47,4 @@ We're all just more nuanced (and balanced) than that. It seems naive or disingen
 
 Personally, I find it extremely difficult to pick a side for both the Familiarity Lover vs Novelty Lover and Promotion- vs Prevention-focused areas.
 
-If I had to choose, I'd call myself a Night Owl, Sprinter, Underbuyer, Simplicity Lover, Finisher, Big Step Taker.
+If I had to choose, I'd call myself a Night Owl, Sprinter, Underbuyer, Simplicity Lover, Finisher, Small Step Taker.
