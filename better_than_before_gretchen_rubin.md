@@ -43,7 +43,7 @@ I struggle with these "Types" because my gut says some (or most) of them seem li
 
 For example, very few of us are the epitome of what she calls an "underbuyer", avoiding buying anything when possible, waiting until a couch is ripping at the seams to replace it. And very few of us match her "overbuyer" stereotype, purchasing two pairs of running shoes, a reflective vest, and a book about running when we decide we want to start habitually running.
 
-We're all just more nuanced (and balanced) than that. It seems naive or disingenuous to paint these as dichotomies. Although it seems worthwhile to consider them as spectrums, where one lies on the spectrum, and the impact it has on habit formation.
+We're all just more nuanced (and balanced) than that. At least, we generally become more balanced as we mature. Thus it seems naive or disingenuous to paint these as dichotomies. Although it seems worthwhile to consider them as spectrums, where one lies on the spectrum, and the impact it has on habit formation.
 
 Personally, I find it extremely difficult to pick a side for both the Familiarity Lover vs Novelty Lover and Promotion- vs Prevention-focused areas.
 
