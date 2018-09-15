@@ -66,7 +66,7 @@ We Manage What We Monitor
 
 ### First Things First
 
-Start by working on habits that have the biggest impact on your life. Focus on these areas first:
+Start by working on habits that have the biggest impact on your life. Focus on these areas first. It will strengthen self control by protecting us from being physically or mentally taxed. In that way, they become a foundation for other habits.
 
 1. Sleep
 2. Exercise
