@@ -48,3 +48,9 @@ We're all just more nuanced (and balanced) than that. At least, we generally bec
 Personally, I find it extremely difficult to pick a side for both the Familiarity Lover vs Novelty Lover and Promotion- vs Prevention-focused areas.
 
 If I had to choose, I'd call myself a Night Owl, Sprinter, Underbuyer, Simplicity Lover, Finisher, Small Step Taker.
+
+## We Manage What We Monitor
+
+- It's a saying from business school.
+- Monitoring something brings awareness of it, which sparks change.
+- Without quantifying our behavior, we typically underestimate or overestimate it.
