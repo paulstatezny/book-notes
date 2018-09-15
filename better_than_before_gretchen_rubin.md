@@ -4,7 +4,11 @@
 
 **Author:** Gretchen Rubin
 
-## The Four Tendencies
+## Observational Strategies
+
+Helping form havits by understanding yourself.
+
+### The Four Tendencies
 
 Centered around whether a person tends to uphold expectations that are **internal** (from oneself) versus **external** (from others).
 
@@ -21,7 +25,7 @@ Most of us fall squarely into one bucket.
     - Basically "what do I feel like doing today"?
     - Helpful to society because they keep its norms in check. (Do these norms make sense?)
 
-## Distinctions
+### Distinctions
 
 Types of People (Dichotomies)
 
@@ -51,7 +55,7 @@ Personally, I find it extremely difficult to pick a side for both the Familiarit
 
 If I had to choose, I'd call myself a Night Owl, Sprinter, Underbuyer, Simplicity Lover, Finisher, Small Step Taker. (And an Obliger, probably.)
 
-## Monitoring
+### Monitoring
 
 We Manage What We Monitor
 
