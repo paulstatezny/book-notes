@@ -21,7 +21,9 @@ Most of us fall squarely into one bucket.
     - Basically "what do I feel like doing today"?
     - Helpful to society because they keep its norms in check. (Do these norms make sense?)
 
-## Types of People (Dichotomies)
+## Distinctions
+
+Types of People (Dichotomies)
 
 She basically says you need to engineer habits based on where you fit on a number of different dichotomies.
 
@@ -49,7 +51,9 @@ Personally, I find it extremely difficult to pick a side for both the Familiarit
 
 If I had to choose, I'd call myself a Night Owl, Sprinter, Underbuyer, Simplicity Lover, Finisher, Small Step Taker. (And an Obliger, probably.)
 
-## We Manage What We Monitor
+## Monitoring
+
+We Manage What We Monitor
 
 - It's a saying from business school.
 - Monitoring something brings awareness of it, which sparks change.
