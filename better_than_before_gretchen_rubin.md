@@ -86,6 +86,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
     - Form it to you: Are you a lark or owl? Do you enjoy being indoors or outdoors? Are you motivated by competition? Loud music or a quiet background? Would a trainer help motivate you? Do you like challenging yourself with new things (e.g. new skills, pushing yourself), or prefer familiar activities? Do you like sports and games? Is it inconvenient to take a shower afterward?
 3. Eat and Drink right
 4. Unclutter
+    - This is related to the broken window theory. Keeping outer order helps one keep inner order because the precedence is order.
 
 ## Author's "Secrets of Adulthood"
 
