@@ -64,6 +64,15 @@ We Manage What We Monitor
 - Without quantifying our behavior, we typically underestimate or overestimate it.
 - Examples: Food tracker, sleep journal, step counter, budgeting app
 
+### First Things First
+
+Start by working on habits that have the biggest impact on your life. Focus on these areas first:
+
+1. Sleep
+2. Exercise
+3. Eat and Drink right
+4. Unclutter
+
 ## Author's "Secrets of Adulthood"
 
 - Don't let the perfect be the enemy of the good
