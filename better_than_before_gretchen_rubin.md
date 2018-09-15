@@ -43,6 +43,15 @@ She basically says you need to engineer habits based on where you fit on a numbe
     - Taking small steps to build a habit is more sustainable. When change is quick to come, it's quick to go too.
     - On the other hand, if there's a lot of needed/wanted change, taking too much of an "incremental" approach to change can leave you stuck in old patterns too long.
 
+#### Self-Questionnaire
+
+- At what time of day do I feel energized? (Morning) When do I drag? (Night)
+- Do I like racing from one activity to another, or do I prefer unhurried transitions? (The latter)
+- Do I like to listen to experts, or do I prefer to figure things out for myself? (Experts, I think)
+- Does spending money on an activity make me feel more committed to it, or less committed? (More)
+- Does it bother me to act differently from other people, or do I get a charge out of it? (Bother)
+- Am I more likely to indulge in a bad havit in a group, or when I'm alone? (Alone)
+
 #### Editorial Note
 
 I struggle with these "Types" because my gut says some (or most) of them seem like spectrums more than dichotomies.
@@ -66,10 +75,15 @@ We Manage What We Monitor
 
 ### First Things First
 
-Start by working on habits that have the biggest impact on your life. Focus on these areas first. It will strengthen self control by protecting us from being physically or mentally taxed. In that way, they become a foundation for other habits.
+Start by working on habits that have the biggest impact on your life. Focus on these areas first, in order. It will strengthen self control by protecting us from being physically or mentally taxed. In that way, they become a foundation for other habits.
 
 1. Sleep
-2. Exercise
+    - Stay up until you're tired, and you'll find it harder to get yourself to bed.
+    - A lot of people (myself included!) stay up late because they don't schedule time for *themselves*. Go to bed early? No, this is my time to goof off, to spend time with my spouse, etc. I don't want to give my job all of me with nothing left over.
+2. Move
+    - Exercising more will ironically give you *more* energy.
+    - It doesn't need to be formal exercise. Just being *less sedentary* (sitting at a desk all day) makes a huge impact!
+    - Form it to you: Are you a lark or owl? Do you enjoy being indoors or outdoors? Are you motivated by competition? Loud music or a quiet background? Would a trainer help motivate you? Do you like challenging yourself with new things (e.g. new skills, pushing yourself), or prefer familiar activities? Do you like sports and games? Is it inconvenient to take a shower afterward?
 3. Eat and Drink right
 4. Unclutter
 
