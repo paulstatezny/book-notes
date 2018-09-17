@@ -99,6 +99,13 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - Tip: When you schedule something, force yourself to do that or nothing at all for that time. This helps you not procrastinate.
 - "The goal is to develop habits that allow us to have time for everything we value—work, fun, exercise, friends, errands, study—in a way that's sustainable, *forever*. Favoring work at the expense of everything else makes work itself less pleasant, diminishes quality of life, and create a constant feeling of 'emergency'."
 
+### Accountability
+
+- Goes hand in hand with scheduling.
+- Especially important for Obligers.
+- A primary value of personal trainers, nutritionists, etc (beyond their expertise) is the built in accountability.
+- Tip: To boost the accountability factor, go public.
+
 ## Author's "Secrets of Adulthood"
 
 - Don't let the perfect be the enemy of the good
