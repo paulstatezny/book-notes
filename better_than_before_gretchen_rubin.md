@@ -109,10 +109,16 @@ Start by working on habits that have the biggest impact on your life. Focus on t
   - Private resolvers: Going public tends to sabotage their chances of success.
 - The "nuclear option": Hand a friend a stamped envelope with a donation check to an organization you despise, with orders to mail it if you fail. (Works only for time-bound commitments, e.g. no alcohol for 60 days.)
 
+### Starting Out
+
+- The best time to begin is always now.
+- Is it too daunting to take the first step? Make the first step smaller and smaller until it's not.
+
 ## Author's "Secrets of Adulthood"
 
 - Don't let the perfect be the enemy of the good
 - “What I do every day matters more than what I do once in a while.”
+- Things often get harder before they get easier
 
 # Applying the book to myself
 
