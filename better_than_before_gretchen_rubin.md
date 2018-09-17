@@ -102,11 +102,12 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 ### Accountability
 
 - Goes hand in hand with scheduling.
-- Especially important for Obligers.
+- Especially important for Obligers. (Find creative ways to build accountability systems into your goals.)
 - A primary value of personal trainers, nutritionists, etc (beyond their expertise) is the built in accountability.
 - Public vs Private Resolvers
   - Public resolvers: Motivated more by going public with their commitments.
   - Private resolvers: Going public tends to sabotage their chances of success.
+- The "nuclear option": Hand a friend a stamped envelope with a donation check to an organization you despise, with orders to mail it if you fail. (Works only for time-bound commitments, e.g. no alcohol for 60 days.)
 
 ## Author's "Secrets of Adulthood"
 
