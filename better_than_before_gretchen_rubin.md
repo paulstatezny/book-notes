@@ -107,6 +107,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 # Applying the book to myself
 
 - Focus first on the Foundation Four (sleep, diet, exercise, and clutter)
-- Schedule leisure/bubble time
+- Schedule leisure/bubble time, schedule/timebox coding hours for work, schedule all our needs like processing mail, family time, time to be alone, etc
+
 - Monitor each habit
 - Find a way to work social pressure into each habit
