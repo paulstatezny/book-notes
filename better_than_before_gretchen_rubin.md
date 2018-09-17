@@ -120,6 +120,8 @@ Start by working on habits that have the biggest impact on your life. Focus on t
     - It's important to recognize when a "stop" is happening and make a conscious effort to start again.
     - Ex: Going on vacation for the summer? Instead of "stopping" your yoga class for the summer, schedule your first day back and put it on the calendar so you feel obligated to it.
     - "The fact is, while some habits are almost unbreakable, some habits remain fragile, even after years."
+- Re-starting a lapsed habit, or simply continuing a difficult one, can be daunting. In this case, it's helpful to ignore that you want to do the habit indefinitely and simply tell yourself, "this is what I am doing today."
+    - "Take that first step, over and over and over."
 
 ## Author's "Secrets of Adulthood"
 
