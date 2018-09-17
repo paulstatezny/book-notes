@@ -87,6 +87,13 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 3. Eat and Drink right
 4. Unclutter
     - This is related to the broken window theory. Keeping outer order helps one keep inner order because the precedence is order.
+    
+## Non-Observational Strategies
+
+### Scheduling
+
+- Putting a habit on the calendar or working it into your routine helps it stick.
+- "Quitting Time": pick a time every day after which you don't check email, do any work, or try to accomplish anything productive. 
 
 ## Author's "Secrets of Adulthood"
 
