@@ -128,6 +128,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - Don't let the perfect be the enemy of the good
 - “What I do every day matters more than what I do once in a while.”
 - Things often get harder before they get easier
+- What we assume will be temporary often becomes permanent; what we assume is permanent often proves temporary.
 
 # Applying the book to myself
 
