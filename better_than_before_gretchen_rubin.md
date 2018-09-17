@@ -141,3 +141,4 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - Run an experiment to figure out whether I'm a public or private resolver
 - Monitor each habit
 - Find a way to work social pressure into each habit
+- Work a reqards system into habit building — buy something I want
