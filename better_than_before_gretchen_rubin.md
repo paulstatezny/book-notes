@@ -93,7 +93,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 ### Scheduling
 
 - Putting a habit on the calendar or working it into your routine helps it stick.
-- "Quitting Time": pick a time every day after which you don't check email, do any work, or try to accomplish anything productive. 
+- "Quitting Time": pick a time every day after which you don't check email, do any work, or try to accomplish anything productive. (She recommends doing this every day, but letting the specific time be flexible.)
 
 ## Author's "Secrets of Adulthood"
 
