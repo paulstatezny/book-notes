@@ -104,7 +104,9 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - Goes hand in hand with scheduling.
 - Especially important for Obligers.
 - A primary value of personal trainers, nutritionists, etc (beyond their expertise) is the built in accountability.
-- Tip: To boost the accountability factor, go public.
+- Public vs Private Resolvers
+  - Public resolvers: Motivated more by going public with their commitments.
+  - Private resolvers: Going public tends to sabotage their chances of success.
 
 ## Author's "Secrets of Adulthood"
 
@@ -115,6 +117,6 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 
 - Focus first on the Foundation Four (sleep, diet, exercise, and clutter)
 - Schedule leisure/bubble time, schedule/timebox coding hours for work, schedule all our needs like processing mail, family time, time to be alone, etc
-
+- Run an experiment to figure out whether I'm a public or private resolver
 - Monitor each habit
 - Find a way to work social pressure into each habit
