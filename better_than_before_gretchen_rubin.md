@@ -123,6 +123,10 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - Re-starting a lapsed habit, or simply continuing a difficult one, can be daunting. In this case, it's helpful to ignore that you want to do the habit indefinitely and simply tell yourself, "this is what I am doing today."
     - "Take that first step, over and over and over."
 
+### The Strategy of the Clean Slate
+
+- We often don't realize, but when change happens in your life new habits will form. We don't pay attention that *that* is the time to try to hijack/program our habits.
+
 ## Author's "Secrets of Adulthood"
 
 - Don't let the perfect be the enemy of the good
