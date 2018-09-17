@@ -91,3 +91,4 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 ## Author's "Secrets of Adulthood"
 
 - Don't let the perfect be the enemy of the good
+- “What I do every day matters more than what I do once in a while.”
