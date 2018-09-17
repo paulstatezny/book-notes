@@ -97,6 +97,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - "Power hour": one hour a week designated for doing all of those small but unpleasant tasks that you've been avoiding. ( although I'm inclined to think of using this for email and snail mail, etc., she doesn't use this time for recurring task like those. Instead, it's one off things that you've been  procrastinating to address.)
 - Scheduling can be used to restrict (timebox) tasks so they don't suck up too much time or energy.
 - Tip: When you schedule something, force yourself to do that or nothing at all for that time. This helps you not procrastinate.
+- "The goal is to develop habits that allow us to have time for everything we value—work, fun, exercise, friends, errands, study—in a way that's sustainable, *forever*. Favoring work at the expense of everything else makes work itself less pleasant, diminishes quality of life, and create a constant feeling of 'emergency'."
 
 ## Author's "Secrets of Adulthood"
 
