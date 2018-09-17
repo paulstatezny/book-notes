@@ -115,7 +115,10 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 
 - The best time to begin is always now.
 - Is it too daunting to take the first step? Make the first step smaller and smaller until it's not.
-- Just as taking the first step has a huge impact, "stops" have a huge impact as well. (Anything that causes you to stop, such as travel, vacation, illness, a new baby, and countless others.) It's important to recognize when a "stop" is happening and make a conscious effort to start again. 
+- Just as taking the first step has a huge impact, "stops" have a huge impact as well.
+    - (Anything that causes you to stop, such as travel, vacation, illness, a new baby, and countless others.)
+    - It's important to recognize when a "stop" is happening and make a conscious effort to start again.
+    - Ex: Going on vacation for the summer? Instead of "stopping" your yoga class for the summer, schedule your first day back and put it on the calendar so you feel obligated to it. 
 
 ## Author's "Secrets of Adulthood"
 
