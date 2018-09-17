@@ -96,6 +96,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - "Quitting Time": pick a time every day after which you don't check email, do any work, or try to accomplish anything productive. (She recommends doing this every day, but letting the specific time be flexible.)
 - "Power hour": one hour a week designated for doing all of those small but unpleasant tasks that you've been avoiding. ( although I'm inclined to think of using this for email and snail mail, etc., she doesn't use this time for recurring task like those. Instead, it's one off things that you've been  procrastinating to address.)
 - Scheduling can be used to restrict (timebox) tasks so they don't suck up too much time or energy.
+- Tip: When you schedule something, force yourself to do that or nothing at all for that time. This helps you not procrastinate.
 
 ## Author's "Secrets of Adulthood"
 
