@@ -94,6 +94,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 
 - Putting a habit on the calendar or working it into your routine helps it stick.
 - "Quitting Time": pick a time every day after which you don't check email, do any work, or try to accomplish anything productive. (She recommends doing this every day, but letting the specific time be flexible.)
+- "Power hour": one hour a week designated for doing all of those small but unpleasant tasks that you've been avoiding. (I'm thinking, sort and process snail mail,  process email, etc.) 
 
 ## Author's "Secrets of Adulthood"
 
