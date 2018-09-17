@@ -6,7 +6,9 @@
 
 ## Observational Strategies
 
-Helping form havits by understanding yourself.
+Helping form habits by understanding yourself.
+
+Habits are powerful because they lead you to do things without expending decision-making energy. They make it automatic.
 
 ### The Four Tendencies
 
