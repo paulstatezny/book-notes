@@ -102,3 +102,10 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 
 - Don't let the perfect be the enemy of the good
 - “What I do every day matters more than what I do once in a while.”
+
+# Applying the book to myself
+
+- Focus first on the Foundation Four (sleep, diet, exercise, and clutter)
+- Schedule leisure/bubble time
+- Monitor each habit
+- Find a way to work social pressure into each habit
