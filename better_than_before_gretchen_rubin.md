@@ -126,6 +126,7 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 ### The Strategy of the Clean Slate
 
 - We often don't realize, but when change happens in your life new habits will form. We don't pay attention that *that* is the time to try to hijack/program our habits.
+-  One doesn't need to wait around for a natural change to happen. One can artificially do something to create this clean slate. ( move around furniture, clean out a room, join a new social group, etc.) 
 
 ## Author's "Secrets of Adulthood"
 
