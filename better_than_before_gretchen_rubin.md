@@ -128,6 +128,11 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - We often don't realize, but when change happens in your life new habits will form. We don't pay attention that *that* is the time to try to hijack/program our habits.
 -  One doesn't need to wait around for a natural change to happen. One can artificially do something to create this clean slate. ( move around furniture, clean out a room, join a new social group, etc.) 
 
+### The Strategy of the Lightning Bolt
+
+- Sometimes,  instead of building a habit by constant repetition, some big event happens that suddenly and instantly changes us.
+- It can be something big like pregnancy or small like a passing comment of a stranger, but it cannot be invoked on command. It happens *to* us. 
+
 ## Author's "Secrets of Adulthood"
 
 - Don't let the perfect be the enemy of the good
