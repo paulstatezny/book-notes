@@ -201,6 +201,7 @@ These strategies "focus on exploiting pleasure to strengthen our good habits":
 ### The Strategy of Pairing
 
 - "In the Strategy of Pairing, I couple two activities, one that I need or want to do, and one that I don't particularly want to do, to get myself to accomplish them both."
+- Example: "When I walk from one room to another at home, I carry something with me. I don't put it away, necessarily, I just move it closer to its destination... Things get put away much more easily, without a lot of special effort"
 
 ## Author's "Secrets of Adulthood"
 
