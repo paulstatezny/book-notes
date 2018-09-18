@@ -66,6 +66,8 @@ Personally, I find it extremely difficult to pick a side for both the Familiarit
 
 If I had to choose, I'd call myself a Night Owl, Sprinter, Underbuyer, Simplicity Lover, Finisher, Small Step Taker. (And an Obliger, probably.)
 
+## Pillars of Habits
+
 ### Monitoring
 
 We Manage What We Monitor
@@ -111,6 +113,8 @@ Start by working on habits that have the biggest impact on your life. Focus on t
   - Private resolvers: Going public tends to sabotage their chances of success.
 - The "nuclear option": Hand a friend a stamped envelope with a donation check to an organization you despise, with orders to mail it if you fail. (Works only for time-bound commitments, e.g. no alcohol for 60 days.)
 
+## The Best Time To Begin
+
 ### Starting Out
 
 - The best time to begin is always now.
@@ -131,14 +135,80 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 ### The Strategy of the Lightning Bolt
 
 - Sometimes,  instead of building a habit by constant repetition, some big event happens that suddenly and instantly changes us.
-- It can be something big like pregnancy or small like a passing comment of a stranger, but it cannot be invoked on command. It happens *to* us. 
+- It can be something big like pregnancy or small like a passing comment of a stranger, but it cannot be invoked on command. It happens *to* us.
+- Try to recognize when it happens and "ride the wave".
+
+## Desire, Ease, and Excuses
+
+These strategies are about "adjusting the amount of effort involved":
+
+  - Abstaining
+  - Convenience
+  - Inconvenience
+  
+These strategies "address the challenges of failure and temptation":
+
+  - Safeguards
+  - Loophole-spotting
+  - Distraction
+  
+These strategies "focus on exploiting pleasure to strengthen our good habits":
+
+  - Reward
+  - Treats
+  - Pairing
+
+"By guarding against excuses and justifications, and by making our habits as enjoyable as possible, we help ourselves succeed."
+
+### The Strategy of Abstaining
+
+- Abstainers vs Moderators
+    - Some people are "Abstainers", those who find it much more difficult to do something in moderation (like eat donuts) than to just abstain altogether. (I.e. "Addictive personality"?)
+    - For Abstainers, depriving themselves totally is *easier*. It conserves energy and willpower. (Key for habits!) Ironically, 100% abstinence can *feel* less rigid and far more relaxing than trying to maintain a balance of moderation.
+    - Moderators do better when they indulge moderately.
+    - Abstaining is a bad idea for Moderators; being told (or deciding) they can't have something makes them want it more.
+- Could you eat just one square of chocolate a day from a chocolate bar? (Yes? You're a Moderator. No? Abstainer.)
+- Most people are Abstainers in some contexts and Moderators in others.
+- Tip: Try fasting from various things. After the fast, you can evaluate whether you're happier without them.
+- "Research...suggests that the less we indulge in something, the less we want it."
+
+### The Strategies of Convenience and Inconvenience
+
+- Trying to build a habit? Figure out ways to make it convenient.
+- Trying to break a bad habit? Figure out ways to make it inconvenient.
+
+### Rewards
+
+- Rewards counterintuitively *harm* our chances of sticking with a habit.
+- Why?
+    - Rewards lead to conscious decisions; habits are about getting *rid* of the decision (making it automatic)
+    - Finish lines (i.e. receiving rewards) offer a *stopping point*, and remember, starting again is difficult. (See "Starting Out")
+- Intrinsic motivation is an **extremely** more powerful force for forming habits than extrinsic motivation. (I.e. rewards)
+- Intrinsic motivators, from Thomas Malone and Mark Lepper:
+    - Challenge
+    - Curiosity
+    - Control
+    - Fantasy
+    - Cooperation  (esp. for Obligers)
+    - Competition
+    - Recognition
+
+### The Strategy of Treats
+
+- Unlike rewards, where you have to "do a good job" to earn it, treats are giving yourself something you want just because you want it.
+- Unlike rewards, treats help improve self control.
+
+### The Strategy of Pairing
+
+- "In the Strategy of Pairing, I couple two activities, one that I need or want to do, and one that I don't particularly want to do, to get myself to accomplish them both."
 
 ## Author's "Secrets of Adulthood"
 
-- Don't let the perfect be the enemy of the good
+- Don't let the perfect be the enemy of the good.
 - “What I do every day matters more than what I do once in a while.”
-- Things often get harder before they get easier
+- Things often get harder before they get easier.
 - What we assume will be temporary often becomes permanent; what we assume is permanent often proves temporary.
+- By giving something up, I gain.
 
 # Applying the book to myself
 
@@ -148,3 +218,4 @@ Start by working on habits that have the biggest impact on your life. Focus on t
 - Monitor each habit
 - Find a way to work social pressure into each habit
 - Work a rewards system into habit building — buy something I want after reaching a certain goal toward building a habit
+- I'm an Abstainer; watch out for things I should abstain from because I have trouble using moderation.
