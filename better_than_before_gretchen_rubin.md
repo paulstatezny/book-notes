@@ -218,5 +218,5 @@ These strategies "focus on exploiting pleasure to strengthen our good habits":
 - Run an experiment to figure out whether I'm a public or private resolver
 - Monitor each habit
 - Find a way to work social pressure into each habit
-- Work a rewards system into habit building — buy something I want after reaching a certain goal toward building a habit
+- Avoud rewards, but work random treats and pairing into my habits.
 - I'm an Abstainer; watch out for things I should abstain from because I have trouble using moderation.
