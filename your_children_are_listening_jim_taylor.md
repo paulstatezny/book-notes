@@ -24,3 +24,8 @@ Survery of 4- to 11-year-olds: What do they want more from their parents?
     - E.g. Spontaneous expressions of love, being checked on at night.
 5. Did not like being yelled at by parents.
 6. Liked "family rituals, routines, and predictability."
+
+### Questionnaire for Parents to Discuss
+
+- What was the emotional tone and style of your family life when you were a child? For example, was it calm and reserved or expressive and chaotic?
+- What values were expressed in your family, such as faith, charity, achievement, or fitness?
