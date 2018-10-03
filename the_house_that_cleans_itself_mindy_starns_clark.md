@@ -2,6 +2,24 @@
 
 **Author:** Mindy Starns Clark
 
+## The Larger Principle: Applied Common-Sense Psychology
+
+While Clark's system makes sense for housekeeping, it seems the root principle is to "use common sense psychology to solve organizational problems, instead of blaming the person".
+
+While I'm interested in attempting to apply the method to housekeeping, I'm just as interested in trying to apply this to:
+
+  - Keeping up with email
+  - Keeping work/life balance
+  - Being productive at work and not getting bogged down by meetings
+  - Staying connected with long-distance friends
+  - Keeping up with my GTD system
+
+It seems that the base HTCI system can be applied in any area like those:
+
+1. Take conscious note of the problem.
+2. Analyze it down to a root cause that involves the environment (physical or otherwise) instead of personal discipline.
+3. Brainstorm creative solutions, allowing for iteration until an elegant solution reveals itself.
+
 ## The HTCI System
 
 1. Become a detective
