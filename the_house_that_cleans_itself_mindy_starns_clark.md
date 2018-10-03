@@ -15,6 +15,7 @@ While I'm interested in attempting to apply the method to housekeeping, I'm just
   - Being productive at work and not getting bogged down by meetings
   - Staying connected with long-distance friends
   - Keeping up with my GTD system
+    - Instead of making a daily to do list, use the GTD system as my to do list to force me to keep up with it. ("The most effective to-do lists are living documents.")
 
 It seems that the base HTCI system can be applied in any area like those:
 
