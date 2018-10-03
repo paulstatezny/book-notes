@@ -4,6 +4,8 @@
 
 ## The Larger Principle: Applied Common-Sense Psychology
 
+This book contains a paradigm shift for thinking about habit problems.
+
 While Clark's system makes sense for housekeeping, it seems the root principle is to "use common sense psychology to solve organizational problems, instead of blaming the person".
 
 While I'm interested in attempting to apply the method to housekeeping, I'm just as interested in trying to apply this to:
