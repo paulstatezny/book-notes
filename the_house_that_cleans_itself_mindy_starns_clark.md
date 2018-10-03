@@ -5,6 +5,10 @@
 ## The HTCI System
 
 1. Become a detective
+  - The questions to answer:
+    - What are the problem areas in my home?
+    - What items do our recurring messes generally consist of?
+    - Why do these particular problems and messes keep happening?
 2. Change the house to fit the behavior
 3. Create a first impression of clean
 4. Think like a hotel
